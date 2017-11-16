@@ -12,7 +12,7 @@
     "supertest": "^3.0.0"
   },
   "name": "i3-p3-solution",
-  "version": "1",
+  "version": "1.0.1",
   "description": "I3 P3 solution as an app with tests",
   "main": "index.js",
   "author": "Pedro Pablo Aste Kompen <wachunei@gmail.com>",
