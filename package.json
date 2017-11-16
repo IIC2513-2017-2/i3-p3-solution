@@ -1,0 +1,21 @@
+{
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest test"
+  },
+  "dependencies": {
+    "koa": "^2.4.1",
+    "uuid": "^3.1.0"
+  },
+  "devDependencies": {
+    "jest": "^21.2.1",
+    "supertest": "^3.0.0"
+  },
+  "name": "i3-p3-solution",
+  "version": "1",
+  "description": "I3 P3 solution as an app with tests",
+  "main": "index.js",
+  "author": "Pedro Pablo Aste Kompen <wachunei@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
